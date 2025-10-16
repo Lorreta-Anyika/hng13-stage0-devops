@@ -6,7 +6,7 @@ Anyika, Uchechukwu Lorreta
 ## Slack Username
 @lorretaU
 
-## 🧠 Project Overview
+## Project Overview
 This project was completed as part of the **HNG13 Stage 0 DevOps Challenge**.  
 The task required deploying a live NGINX web server that hosts a custom HTML page accessible from the public internet.  
 It simulates a real-world DevOps workflow — managing a GitHub repository, configuring a web server, and documenting a deployment process.
@@ -41,7 +41,7 @@ It simulates a real-world DevOps workflow — managing a GitHub repository, conf
 
 ---
 
-## 🧩 Skills Gained / Improved
+## Skills Gained / Improved
 - **Cloud Infrastructure Management (AWS EC2)**  
 - **Linux Command Line Operations**  
 - **NGINX Installation & Configuration**  
